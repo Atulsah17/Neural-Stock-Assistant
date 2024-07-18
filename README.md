@@ -1,2 +1,1 @@
-# Neural-Stock-Assistant
-The Neural Stock Assistant is an advanced system that leverages the power of Llama3, an open-source Large Language Model (LLM), to retrieve company names and ticker symbols.
+The Neural Stock Assistant is an advanced system that leverages the power of Llama3 to fetch company names and ticker symbols, integrating with yFinance for real-time stock prices. It showcases LLMs in financial data analysis, demonstrating machine learning's integration with APIs for accurate stock information.
